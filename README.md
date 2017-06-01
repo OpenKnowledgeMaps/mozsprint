@@ -34,7 +34,7 @@ Explain how you want contributors to propose changes. For an example GitHub work
 
 Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
  
-1. **[Fork](https://help.github.com/articles/fork-a-repo/) this repository**. This makes your own version of this project you can edit and use.
+1. **[Fork](https://help.github.com/articles/fork-a-repo/) the [Headstart repository](https://github.com/OpenKnowledgeMaps/Headstart)**. This makes your own version of this project you can edit and use.
 2. **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
 3. **Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)**. This opens a discussion around your project and lets the project lead know you are proposing changes.
 
