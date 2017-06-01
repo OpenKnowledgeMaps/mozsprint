@@ -6,7 +6,7 @@ Thank you for your interest in contributing to Open Knowledge Maps :tada:!
 
 Our goal is to revolutionize discovery of scientific knowledge. We are building a visual interface that dramatically increases the visibility of research findings for science and society alike. We believe that a better way to explore and discover scientific knowledge will benefit us all.
 
-We have been developing the system as [a group of volunteers](https://openknowledgemaps.org/team] and have released the results on our website https://openknowledgemaps.org. Currently, users can create a knowledge map for a topic of their choice based on either PubMed or the BASE. Our software retrieves the 100 most relevant results for a topic and creates a knowledge map based on textual similarity between the records. The map is intended to give users a head start in their literature research.
+We have been developing the system as [a group of volunteers](https://openknowledgemaps.org/team) and have released the results on our website https://openknowledgemaps.org. Currently, users can create a knowledge map for a topic of their choice based on either PubMed or the BASE. Our software retrieves the 100 most relevant results for a topic and creates a knowledge map based on textual similarity between the records. The map is intended to give users a head start in their literature research.
 
 [Try it out now!](https://openknowledgemaps.org/index.php#search)
 
